@@ -2,9 +2,11 @@
 
 💡 **Get a random piece of wisdom, copy it instantly, and track your progress!**  
 
+🔗 **Live Demo:** [https://advicegenerat.netlify.app/](#)  
+
 ---
 
-## 🔥 𝙵𝚎𝚊𝚝𝚞𝚛𝚎𝚜  
+## 🔥 Features  
 ✅ **Fetches motivational advice** from the AdviceSlip API  
 ✅ **One-click copy** to clipboard 📋  
 ✅ **Track the number of advices read** 🔢  
@@ -12,7 +14,7 @@
 
 ---
 
-## 🛠 𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔  
+## 🛠 Tech Stack  
 - **React.js** ⚛️  
 - **HTML & CSS (Flexbox, Gradients, Glassmorphism)** 🎨  
 - **JavaScript (useState, fetch API, Clipboard API)** 🚀  
