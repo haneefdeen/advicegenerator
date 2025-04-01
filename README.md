@@ -1,8 +1,8 @@
 #  𝚆𝚒𝚜𝚍𝚘𝚖 𝚆𝚑𝚒𝚜𝚙𝚎𝚛 - 𝚈𝚘𝚞𝚛 𝙳𝚊𝚒𝚕𝚢 𝙳𝚘𝚜𝚎 𝚘𝚏 𝙰𝚍𝚟𝚒𝚌𝚎 📜  
 
-💡 **Get a random piece of wisdom, copy it instantly, and track your progress!**  
+ **Get a random piece of wisdom, copy it instantly, and track your progress!**  
 
-🔗 **Live Demo:** [https://advicegenerat.netlify.app/](#)  
+🔗 **Live Demo:** [Wisdom Whisper](https://advicegenerat.netlify.app/)  
 
 ---
 
